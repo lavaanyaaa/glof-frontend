@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/glof-frontend/static/css/main.31dda223.css",
-    "main.js": "/glof-frontend/static/js/main.bc6bdb69.js",
+    "main.js": "/glof-frontend/static/js/main.97c43b33.js",
     "index.html": "/glof-frontend/index.html",
     "main.31dda223.css.map": "/glof-frontend/static/css/main.31dda223.css.map",
-    "main.bc6bdb69.js.map": "/glof-frontend/static/js/main.bc6bdb69.js.map"
+    "main.97c43b33.js.map": "/glof-frontend/static/js/main.97c43b33.js.map"
   },
   "entrypoints": [
     "static/css/main.31dda223.css",
-    "static/js/main.bc6bdb69.js"
+    "static/js/main.97c43b33.js"
   ]
 }
