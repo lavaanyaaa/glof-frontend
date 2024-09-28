@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/glof-frontend/static/css/main.31dda223.css",
+    "main.js": "/glof-frontend/static/js/main.bc6bdb69.js",
+    "index.html": "/glof-frontend/index.html",
+    "main.31dda223.css.map": "/glof-frontend/static/css/main.31dda223.css.map",
+    "main.bc6bdb69.js.map": "/glof-frontend/static/js/main.bc6bdb69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31dda223.css",
+    "static/js/main.bc6bdb69.js"
+  ]
+}
